@@ -40,5 +40,11 @@ lerna-debug.log*
 .yarn/*
 !.yarn/releases
 
-# Netlify
-.netlify
+# Local Netlify folder
+.netlify/state.json
+.netlify/blobs
+.netlify/functions-serve
+.netlify/edge-functions-serve
+.netlify/edge-functions-import-map.json
+.netlify/edge-functions-dist
+.netlify/netlify.toml
