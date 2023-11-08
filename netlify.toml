@@ -1,3 +1,3 @@
 [build]
 publish = "dist"
-command = "echo no build"
+command = "mkdir dist"
